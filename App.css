@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .light-mode {
+    background-color:white;
+    color: black;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
+
+  .toggle-btn {
+
+    background-color: transparent;
+    color: black;
+    border: 2px solid gray;
+    border-radius: 25px;
+    padding: 7px 15px;
+    cursor: pointer;
+    float: right;
+    margin-top: -205px;
+    margin-right: 10px;
+  }
+  .toggle-btn:Hover {
+    box-shadow: 3px 8px 8px 0px;
+  }
+  
+ 
+  
