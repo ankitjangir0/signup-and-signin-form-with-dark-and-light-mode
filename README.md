@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was about signin and sigup forms with validation and  light and dark modes.
 
 ## Available Scripts
 
